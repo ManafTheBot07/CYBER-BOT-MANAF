@@ -1,3 +1,4 @@
+
 module.exports.config = {
  name: "info",
  version: "1.2.6",
@@ -31,7 +32,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  seconds = Math.floor(time % 60);
 
  var link = [
-  "https://i.imgur.com/Z1Tw7VQ.jpeg"
+  "https://i.imgur.com/GELDDyr.jpeg"
  ];
 
  var i = 1;
