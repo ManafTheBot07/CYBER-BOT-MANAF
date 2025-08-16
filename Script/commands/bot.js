@@ -70,7 +70,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("My Creator:MANAF ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস মানাফ আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
-  if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
+  if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "bot er admin")) {
      return api.sendMessage("He is SH MANAF SIKDER ッ❤️ তাকে সবাই মানাফ নামে  চিনে🤙", threadID);
    };
 
